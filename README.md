@@ -1,4 +1,6 @@
-### Hi there 👋
+- 🔭 I’m currently working on ArgentinaRP (Fivem Server)
+- 🌱 I’m currently learning MySQL and PHP.
+- ⚡ I’m currently studing in ElTaller.
 
 <!--
 **AugustFerrari/AugustFerrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
